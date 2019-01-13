@@ -28,7 +28,7 @@ Snwk 的 Blog 就这么开通了。
 3. 迷茫只是因为尚不够努力，这个就不解释了。
 看过很多大佬的blog，写博客可以记录学习的点滴，学一遍记一遍写一遍可以记得更扎实，当然这也是一件很cool的事。
 
-所以，我要开始写博客了，请大家监督我！也希望大家在评论区批评指正！
+总之，我要开始写博客了，请大家监督我！也希望大家在评论区批评指正！
 
 
 
@@ -36,7 +36,7 @@ Snwk 的 Blog 就这么开通了。
 ---
 
 
-首先，感谢Hux，fork了Hux的仓库作为本博客的模板，Hux为此jekyll主题提供了很多有用的更新和优化。[Hux的仓库](https://github.com/Huxpro/huxpro.github.io)
+感谢Hux，fork了Hux的仓库作为本博客的模板，Hux为此jekyll主题提供了很多有用的更新和优化。[Hux的仓库](https://github.com/Huxpro/huxpro.github.io)
 
 感谢**纯洁的微笑**的博客相关教程，也感谢坚持更新的前辈带给我的动力。[纯洁的微笑的博客](http://www.ityouknow.com/)
 
