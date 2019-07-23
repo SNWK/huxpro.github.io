@@ -19,18 +19,24 @@ tags:
 
 王凯 黄子恒 兰璇
 
-## Final Scenes
-### Chrismas:
+## Final Scenes 
+
+#### Chrismas:
 ![](/img/in-post/post-RenderingAS5/A01.PNG)
 ![](/img/in-post/post-RenderingAS5/A02.PNG)
 ![](/img/in-post/post-RenderingAS5/A03.PNG)
 ![](/img/in-post/post-RenderingAS5/A04.PNG)
 
-### Magic:
+#### Magic:
 ![](/img/in-post/post-RenderingAS5/B01.PNG)
 ![](/img/in-post/post-RenderingAS5/B02.PNG)
 ![](/img/in-post/post-RenderingAS5/B03.PNG)
 ![](/img/in-post/post-RenderingAS5/B04.PNG)
+
+#### Demos
+![](/img/in-post/post-RenderingAS5/chrismas.webm)
+![](/img/in-post/post-RenderingAS5/magic.webm)
+
 
 ## Algorithms in the Program
 
