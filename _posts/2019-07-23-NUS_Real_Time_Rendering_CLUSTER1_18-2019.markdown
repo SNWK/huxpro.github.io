@@ -34,8 +34,9 @@ tags:
 ![](/img/in-post/post-RenderingAS5/B04.PNG)
 
 #### Demos
-[chrismas demo](https://snwk.github.io/img/in-post/post-RenderingAS5/chrismas.webm "CLUSTER1-18: chrismas")
-[magic demo](https://snwk.github.io/img/in-post/post-RenderingAS5/magic.webm "CLUSTER1-18: magic")
+This is [the Chrismas scene demo](https://snwk.github.io/img/in-post/post-RenderingAS5/chrismas.webm "CLUSTER1-18: chrismas").  
+
+This is [the Magic scene demo](https://snwk.github.io/img/in-post/post-RenderingAS5/magic.webm "CLUSTER1-18: magic").
 
 
 ## Algorithms in the Program
