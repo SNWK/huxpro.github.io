@@ -14,11 +14,19 @@ tags:
 
 > “Yeah It's on. ”
 
-# Magical Christmas 
+# Magical Christmas  
+
+
+#### Features  
+*Ray tracing*, *Triangle*, *Cube*, *Bounding Volumes*, *FILL light*.  
+
+The code has been put in shadertoy.com. [Click here](https://www.shadertoy.com/view/tlfSzs "CLUSTER1-18: chrismas"). 
 
 ## Team Members:
 
-王凯 黄子恒 兰璇
+王凯, Southern University of Science and Technology
+黄子恒, Wuhan University
+兰璇, Sichuan University
 
 ## Final Scenes 
 
@@ -188,12 +196,6 @@ This is [the Magic scene demo](https://snwk.github.io/img/in-post/post-Rendering
    We add boolean value in every objects, if it needs fill light, the boolean value is true. Then we define a light only accessible to objects which need fill light. The effect is like the golden ball in the picture. Its brightness should be the same as the front triangle.
 
    ![1563865773448](/img/in-post/post-RenderingAS5/p3.png)
+  
 
-
-
-<p id = "build"></p>
----
-
-
-
-
+Thanks!
