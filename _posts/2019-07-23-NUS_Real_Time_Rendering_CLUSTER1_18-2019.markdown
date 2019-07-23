@@ -4,7 +4,7 @@ title:      "SWS3005 CLUSTER1-18"
 subtitle:   " \"NUS, Real Time Rendering Assignment 5\""
 date:       2019-07-23 22:00:00
 author:     "Snwk"
-header-img: "img/post-bg-2015.jpg"
+header-img: "/img/in-post/post-RenderingAS5/title.png"
 catalog: true
 tags:
     - Code
@@ -14,14 +14,15 @@ tags:
 
 > “Yeah It's on. ”
 
+# Magical Christmas 
 
-## Team Member:
+## Team Members:
 
 王凯 黄子恒 兰璇
 
 ## Final Scenes 
 
-#### Chrismas:
+#### Christmas:
 ![](/img/in-post/post-RenderingAS5/A01.PNG)
 ![](/img/in-post/post-RenderingAS5/A02.PNG)
 ![](/img/in-post/post-RenderingAS5/A03.PNG)
@@ -34,7 +35,7 @@ tags:
 ![](/img/in-post/post-RenderingAS5/B04.PNG)
 
 #### Demos
-This is [the Chrismas scene demo](https://snwk.github.io/img/in-post/post-RenderingAS5/chrismas.webm "CLUSTER1-18: chrismas").  
+This is [the Christmas scene demo](https://snwk.github.io/img/in-post/post-RenderingAS5/chrismas.webm "CLUSTER1-18: chrismas").  
 
 This is [the Magic scene demo](https://snwk.github.io/img/in-post/post-RenderingAS5/magic.webm "CLUSTER1-18: magic").
 
