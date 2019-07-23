@@ -20,7 +20,9 @@ tags:
 #### Features  
 *Ray tracing*, *Triangle*, *Cube*, *Bounding Volumes*, *FILL light*.  
 
-The code has been put in shadertoy.com. [Click here](https://www.shadertoy.com/view/tlfSzs "CLUSTER1-18: chrismas"). 
+The code has been put in shadertoy.com. [Click here](https://www.shadertoy.com/view/tlfSzs "CLUSTER1-18: chrismas").   
+
+Poster. [Click here](https://snwk.github.io/img/post-RenderingAS5/poster.jpg "CLUSTER1-18: chrismas"). 
 
 ## Team Members:
 
