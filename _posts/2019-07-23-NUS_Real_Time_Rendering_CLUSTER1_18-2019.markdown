@@ -26,7 +26,7 @@ tags:
 ![](/img/in-post/post-RenderingAS5/A03.PNG)
 ![](/img/in-post/post-RenderingAS5/A04.PNG)
 
-### Magit
+### Magic:
 ![](/img/in-post/post-RenderingAS5/B01.PNG)
 ![](/img/in-post/post-RenderingAS5/B02.PNG)
 ![](/img/in-post/post-RenderingAS5/B03.PNG)
@@ -46,7 +46,7 @@ tags:
 
    $$\textbf{o} + t\textbf{b}  = \textbf{a} + \beta\textbf{(b-a)} + \gamma\textbf{(c-a)}$$
 
-    <a href="https://www.codecogs.com/eqnedit.php?latex=\textbf{o}&space;&plus;&space;t\textbf{b}&space;=&space;\textbf{a}&space;&plus;&space;\beta\textbf{(b-a)}&space;&plus;&space;\gamma\textbf{(c-a)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\textbf{o}&space;&plus;&space;t\textbf{b}&space;=&space;\textbf{a}&space;&plus;&space;\beta\textbf{(b-a)}&space;&plus;&space;\gamma\textbf{(c-a)}" title="\textbf{o} + t\textbf{b} = \textbf{a} + \beta\textbf{(b-a)} + \gamma\textbf{(c-a)}" /></a>
+   <a href="https://www.codecogs.com/eqnedit.php?latex=\textbf{o}&space;&plus;&space;t\textbf{b}&space;=&space;\textbf{a}&space;&plus;&space;\beta\textbf{(b-a)}&space;&plus;&space;\gamma\textbf{(c-a)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\textbf{o}&space;&plus;&space;t\textbf{b}&space;=&space;\textbf{a}&space;&plus;&space;\beta\textbf{(b-a)}&space;&plus;&space;\gamma\textbf{(c-a)}" title="\textbf{o} + t\textbf{b} = \textbf{a} + \beta\textbf{(b-a)} + \gamma\textbf{(c-a)}" /></a>
    
 
    And hit point is in the triangle when $\beta > 0$ , $\gamma > 0$ and $\beta + \gamma < 1$. Otherwise, it will hit on outside of the triangle. It is hard to solve $t,\beta,\gamma$. We expand vectors in formula first.
