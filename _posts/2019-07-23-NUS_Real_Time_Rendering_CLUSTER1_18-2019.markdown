@@ -27,7 +27,7 @@ tags:
 
    Using barycentric coordinates for the parametric plane containing the triangle. **o** is a vector points to origin. **d** is a unit vector on ray's direction. **p** is a vector points to hit point. **a**, **b** and **c** are three vertex vectors. As the picture shows:
 
-   ![](./img/in-post/post-RenderingAS5/p1.PNG)
+   ![](/img/in-post/post-RenderingAS5/p1.PNG)
 
    From intersection theory, we know intersection will happen when:
 
@@ -152,7 +152,7 @@ tags:
 
    In order to further increase the speed of operation, we implemented a simplified version of Bounding Volume Hierarchy. Using a AABB to enclose several objects that are close together. As the picture shows:
 
-   ![](Algorithm.assets/p2.png)
+   ![](/img/in-post/post-RenderingAS5/p2.png)
 
    
 
@@ -162,17 +162,13 @@ tags:
 
    We add boolean value in every objects, if it needs fill light, the boolean value is true. Then we define a light only accessible to objects which need fill light. The effect is like the golden ball in the picture. Its brightness should be the same as the front triangle.
 
-   ![1563865773448](./img/in-post/post-RenderingAS5/p3.png)
+   ![1563865773448](/img/in-post/post-RenderingAS5/p3.png)
 
 
 
 <p id = "build"></p>
 ---
 
-
-感谢Hux，fork了Hux的仓库作为本博客的模板，Hux为此jekyll主题提供了很多有用的更新和优化。[Hux的仓库](https://github.com/Huxpro/huxpro.github.io)
-
-感谢**纯洁的微笑**的博客相关教程，也感谢坚持更新的前辈带给我的动力。[纯洁的微笑的博客](http://www.ityouknow.com/)
 
 
 
