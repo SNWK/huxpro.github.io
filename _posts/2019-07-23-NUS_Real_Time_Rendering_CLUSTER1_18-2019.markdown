@@ -34,8 +34,8 @@ tags:
 ![](/img/in-post/post-RenderingAS5/B04.PNG)
 
 #### Demos
-![](/img/in-post/post-RenderingAS5/chrismas.webm)
-![](/img/in-post/post-RenderingAS5/magic.webm)
+![chrismas demo](/img/in-post/post-RenderingAS5/chrismas.webm)
+![magic demo](/img/in-post/post-RenderingAS5/magic.webm)
 
 
 ## Algorithms in the Program
