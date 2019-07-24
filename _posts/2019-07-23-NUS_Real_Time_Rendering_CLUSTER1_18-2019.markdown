@@ -4,7 +4,7 @@ title:      "SWS3005 CLUSTER1-18"
 subtitle:   " \"NUS, Real Time Rendering Assignment 5\""
 date:       2019-07-23 23:00:00
 author:     "Snwk"
-header-img: "img/in-post/post-RenderingAS5/title.png"
+header-img: "img/in-post/post-RenderingAS5/title1.png"
 catalog: true
 tags:
     - Code
