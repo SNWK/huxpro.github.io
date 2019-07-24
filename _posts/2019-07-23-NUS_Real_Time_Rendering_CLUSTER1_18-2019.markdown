@@ -2,7 +2,7 @@
 layout:     post
 title:      "SWS3005 CLUSTER1-18"
 subtitle:   " \"NUS, Real Time Rendering Assignment 5\""
-date:       2019-07-23 22:00:00
+date:       2019-07-23 23:00:00
 author:     "Snwk"
 header-img: "img/in-post/post-RenderingAS5/title.png"
 catalog: true
@@ -12,10 +12,11 @@ tags:
     - NUS
 ---
 
-> “Yeah It's on. ”
+> “Merry Christmas!”
 
 # Magical Christmas  
 
+Using ray tracing, we designed a scene of the Christmas tree under the sky full of stars in GLSL. According to the surface of the spheres, you are able to easily see the light effects such as reflection, refraction and the like. See more details by clicking the homepage URL of our project in shadertoy! Futhermore, the algorithm has already been updated to our homepage.
 
 #### Features  
 *Ray tracing*, *Triangle*, *Cube*, *Bounding Volumes*, *FILL light*.  
