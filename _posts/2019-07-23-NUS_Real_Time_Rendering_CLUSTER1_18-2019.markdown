@@ -49,7 +49,9 @@ Using ray tracing, we designed a scene of the Christmas tree under the sky full 
 ![](/img/in-post/post-RenderingAS5/B03.PNG)
 ![](/img/in-post/post-RenderingAS5/B04.PNG)
 
-#### Demos
+#### Demos  
+MP4(28MB) download.[Click here](https://snwk.github.io/img/in-post/post-RenderingAS5/demo.mp4 "CLUSTER1-18: chrismas").  
+
 This is [the Christmas scene demo](https://snwk.github.io/img/in-post/post-RenderingAS5/chrismas.webm "CLUSTER1-18: chrismas").  
 
 This is [the Magic scene demo](https://snwk.github.io/img/in-post/post-RenderingAS5/magic.webm "CLUSTER1-18: magic").
