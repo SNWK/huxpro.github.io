@@ -21,11 +21,13 @@ Using ray tracing, we designed a scene of the Christmas tree under the sky full 
 #### Features  
 *Ray tracing*, *Triangle*, *Cube*, *Bounding Volumes*, *FILL light*.  
 
-Watch our video here! [Click here](https://www.bilibili.com/video/av60613555/ "CLUSTER1-18: chrismas").   
+#### links  
 
-The code has been put in shadertoy.com. [Click here](https://www.shadertoy.com/view/tlfSzs "CLUSTER1-18: chrismas").   
+**Watch our video here!** [Click here](https://www.bilibili.com/video/av60613555/ "CLUSTER1-18: chrismas").   
 
-Poster. [Click here](https://snwk.github.io/img/in-post/post-RenderingAS5/poster.jpg "CLUSTER1-18: chrismas"). 
+**The code has been put in shadertoy.com.** [Click here](https://www.shadertoy.com/view/tlfSzs "CLUSTER1-18: chrismas").   
+
+**Poster.** [Click here](https://snwk.github.io/img/in-post/post-RenderingAS5/poster.jpg "CLUSTER1-18: chrismas"). 
 
 ## Team Members:
 
