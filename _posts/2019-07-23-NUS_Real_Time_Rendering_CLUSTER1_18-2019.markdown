@@ -29,6 +29,8 @@ Using ray tracing, we designed a scene of the Christmas tree under the sky full 
 
 **Poster.** [Click here](https://snwk.github.io/img/in-post/post-RenderingAS5/poster.jpg "CLUSTER1-18: chrismas"). 
 
+[Vote for us!](#build) 
+
 ## Team Members:
 
 王凯, Southern University of Science and Technology
@@ -208,3 +210,15 @@ This is [the Magic scene demo](https://snwk.github.io/img/in-post/post-Rendering
   
 
 Thanks!
+
+<p id = "build"></p>
+---  
+#### Steps:  
+
+1. Register for a ticket. [Click here](http://isteps.comp.nus.edu.sg/event/sws-y2-19 "isteps.comp.nus.edu.sg").   
+> Ticket Type: Standard Tickets.  
+2. The ticket will be sent to your email.  
+3. Click the link in the email, "**Let's Go Vote!**".  
+4. Find **CLUSTER 1-18** Magical Christmas. Click 1st! 
+
+Thanks Again!
