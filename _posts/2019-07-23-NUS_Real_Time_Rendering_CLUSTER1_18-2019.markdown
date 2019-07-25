@@ -12,9 +12,11 @@ tags:
     - NUS
 ---
 
-> “Merry Christmas!”
+> “Merry Christmas!”  
 
 # Magical Christmas  
+
+[Vote for us!](#build) 
 
 Using ray tracing, we designed a scene of the Christmas tree under the sky full of stars in GLSL. According to the surface of the spheres, you are able to easily see the light effects such as reflection, refraction and the like. See more details by clicking the homepage URL of our project in shadertoy! Futhermore, the algorithm has already been updated to our homepage.
 
@@ -29,7 +31,6 @@ Using ray tracing, we designed a scene of the Christmas tree under the sky full 
 
 **Poster.** [Click here](https://snwk.github.io/img/in-post/post-RenderingAS5/poster.jpg "CLUSTER1-18: chrismas"). 
 
-[Vote for us!](#build) 
 
 ## Team Members:
 
